@@ -5,12 +5,13 @@ Olá, pessoal! Me chamo Paloma, sou estudante de análise e desenvolvimento de s
 </div>
 
 # Interesses e Expertises 
-<div align="justify">
-+	Tecnologia e sustentabilidade: Acredito na tecnologia como ferramenta de transformação. Nesse sentido, estou estudando sobre como a tecnologia pode contribuir na busca de um desenvolvimento  sustentável. 
+<div align="justify"> 
 
 +	Minha área de maior interesse é estar atuando com back-end. Por isso, estou aprendendo e aprimorando meus conhecimentos em Java e C#. 
 
 +	Pretendo atuar no desenvolvimento de aplicativos e softwares desktop.
+
++	Tecnologia e sustentabilidade: Acredito na tecnologia como ferramenta de transformação. Nesse sentido, estou estudando sobre como a tecnologia pode contribuir na busca de um desenvolvimento  sustentável.
 
 +	Estou participando de projeto de inciação científica da PUC na área de bioinformática. 
 </div>
